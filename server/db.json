@@ -1,0 +1,39 @@
+{
+  "exps": [
+    {
+      "id": 1710111117855,
+      "sum": "444 coins",
+      "category": "transport"
+    },
+    {
+      "id": 1710111131120,
+      "sum": "222 coins",
+      "category": "transport"
+    },
+    {
+      "id": 1710111133864,
+      "sum": "444 coins",
+      "category": "entertainment"
+    },
+    {
+      "id": 1710111139559,
+      "sum": "444 coins",
+      "category": "entertainment"
+    },
+    {
+      "id": 1710112680935,
+      "sum": "44 coins",
+      "category": "transport"
+    },
+    {
+      "id": 1710112686014,
+      "sum": "444 coins",
+      "category": "entertainment"
+    },
+    {
+      "id": 1710153244281,
+      "sum": "555 coins",
+      "category": "entertainment"
+    }
+  ]
+}
